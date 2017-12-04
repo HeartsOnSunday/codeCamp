@@ -1,0 +1,24 @@
+
+var myMusic = [
+  {
+    "artist": "Billy Joel",
+    "title": "Piano Man",
+    "release_year": 1973,
+    "formats": [ 
+      "CS", 
+      "8T", 
+      "LP" ],
+    "gold": true
+  },
+  {
+    "artist": "TOOL",
+    "title": "10,000 Days",
+    "release_year": 2001,
+    "formats": [
+      "CD",
+      "Cassette", 
+      "LP",],
+    "gold": true,
+  }
+];
+
